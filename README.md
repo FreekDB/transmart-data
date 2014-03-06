@@ -31,7 +31,7 @@ Requirements
 The following are required:
 
 * GNU make
-* PostgreSQL client utilities (`psql`, `psql_dump`, etc.)
+* PostgreSQL client utilities (`psql`, `pg_dump`, etc.)
 * curl
 * php (>= 5.4)
 * tar with support for the -J switch (GNU tar only?)
