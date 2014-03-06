@@ -35,8 +35,9 @@ The following are required:
 * curl
 * php (>= 5.4)
 * tar with support for the -J switch (GNU tar only?)
-* An up-to-date checkout of the [`tranSMART-ETL` repository][ts_etl]. Revision
-  e712fcd7 is necessary for Faceted Search support (ETL only)
+* An up-to-date checkout of the [`tranSMART-ETL` repository][ts_etl]. For
+  Ubuntu, this can be done automatically (see below). Revision e712fcd7 or
+  later is necessary for Faceted Search support (ETL only)
 * [Kettle][kettle] (ETL only)
 * rsync (Solr only)
 * Java environment (JDK) (Solr only)
